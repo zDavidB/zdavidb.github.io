@@ -2,16 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zdavidb.githubpages.io/akamai/</loc>
-    <lastmod>2021-05-12T12:44:51+01:00</lastmod>
-  </url><url>
-    <loc>https://zdavidb.githubpages.io/akamai/datastream/</loc>
-    <lastmod>2021-05-12T12:44:51+01:00</lastmod>
-  </url><url>
     <loc>https://zdavidb.githubpages.io/</loc>
-    <lastmod>2021-05-12T12:44:51+01:00</lastmod>
+    <lastmod>2021-05-12T14:40:55+01:00</lastmod>
   </url><url>
     <loc>https://zdavidb.githubpages.io/categories/</loc>
+  </url><url>
+    <loc>https://zdavidb.githubpages.io/</loc>
   </url><url>
     <loc>https://zdavidb.githubpages.io/tags/</loc>
   </url>
